@@ -19,12 +19,12 @@ Hi, I'm a first-year computer science student at UC San Diego with experience an
 
 In my spare time, I like to explore new genres of music and play instruments too! Currently working on learning guitar by myself. 
 
-## Contacts
+## Contacts 👋
 
 **Email:** edwardlin4573@gmail.com <br>
 **LinkedIn:** https://www.linkedin.com/in/edward-lin-s/
 
-## Experiences
+## Experiences 💼
 
 **[Triton Software Engineering](https://tse.ucsd.edu) | Software Developer**
 - I worked as a front end developer along with a team of developers and designers for the nonprofit Fixnation's landing page, creating responsive masthead, roadmap, mobile stats page, and interactive quiz components.
@@ -33,8 +33,12 @@ In my spare time, I like to explore new genres of music and play instruments too
 **[Comet College Applications Task Manager](https://applywithcomet.com) | Software Engineer Intern**
 - I provided strategic software consultation and analyzing UI/UX to help test and improve it for public use
 - During my time as an intern, I improved Comet’s search engine performance with inverted indexing and NoSQL databases, developed a Python picture-to-JSON transcript reader that converts images into data structures to simplify user experience, and created a chat app using CometChat widget and Firebase to allow one-to-one counseling.
+ 
+## Projects 💡
 
-## Projects
+**[ReViSE: Reconstructing Visual Stimuli from EEG signals](https://github.com/Utterbackian/Neuromatch2023_Medical_Imaging)**
+
+- Generative deep learning model using Pytorch to recreate images based on EEG data of subjects viewing said images. Used a LSTM to encode and extract features of EEG data and a Deep Convolutional Generative Adversary Network to train and generate images. 
 
 **[ToiFall: Wifi CSI Activity Recognition](https://github.com/EdwardLinS/ToiFall)**
 
@@ -48,7 +52,7 @@ In my spare time, I like to explore new genres of music and play instruments too
 
 - Python computer vision program using CNN to accurately classify five facial emotions for individuals with autism spectrum disorder to identify human emotions.
 
-## Skills
-
+## Skills 🛠️
+ 
 - **Languages:** Java, Python, C, ARM Architecture, JavaScript, TypeScript, HTML, CSS, SQL, Kotlin, Svelte, R
 - **Technologies:** Git, React.js, GitHub, JUnit, Bash, Figma, NumPy, Pandas, PyTorch, WordPress, Tableau, LaTex, VSCode
