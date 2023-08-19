@@ -36,7 +36,7 @@ In my spare time, I like to explore new genres of music and play instruments too
  
 ## Projects 💡
 
-**[ReViSE: Reconstructing Visual Stimuli from EEG signals](https://github.com/Utterbackian/Neuromatch2023_Medical_Imaging)**
+**[ReViSE: Reconstructing Visual Stimuli from EEG Signals](https://github.com/Utterbackian/Neuromatch2023_Medical_Imaging)**
 
 - Generative deep learning model using Pytorch to recreate images based on EEG data of subjects viewing said images. Used a LSTM to encode and extract features of EEG data and a Deep Convolutional Generative Adversary Network to train and generate images. 
 
