@@ -27,7 +27,7 @@ In my spare time, I like to explore new genres of music and play instruments too
 ## Experiences 💼
 
 **[Triton Software Engineering](https://tse.ucsd.edu) | Software Developer**
-- I worked as a front end developer along with a team of developers and designers for the nonprofit Fixnation's landing page, creating responsive masthead, roadmap, mobile stats page, and interactive quiz components.
+- I worked as a front-end developer with a cross-functional team for the nonprofit Fixnation's landing page, creating responsive masthead, roadmap, mobile stats page, and interactive quiz components.
 - I used HTML, CSS, Typescript, and SvelteKit to develop the website.
 
 **[Comet College Applications Task Manager](https://applywithcomet.com) | Software Engineer Intern**
