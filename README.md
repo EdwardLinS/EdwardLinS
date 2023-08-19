@@ -31,7 +31,7 @@ In my spare time, I like to explore new genres of music and play instruments too
 - I used HTML, CSS, Typescript, and SvelteKit to develop the website.
 
 **[Comet College Applications Task Manager](https://applywithcomet.com) | Software Engineer Intern**
-- I provided strategic software consultation and analyzing UI/UX to help test and improve it for public use
+- I provided strategic software consultation and analyzing UI/UX to help test and improve it for public use.
 - During my time as an intern, I improved Comet’s search engine performance with inverted indexing and NoSQL databases, developed a Python picture-to-JSON transcript reader that converts images into data structures to simplify user experience, and created a chat app using CometChat widget and Firebase to allow one-to-one counseling.
  
 ## Projects 💡
