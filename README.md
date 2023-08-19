@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm a first-year computer science student at UC San Diego with experience and skills in front-end web development, AI, and Machine Learning. Having a passion for learning new things, I am always seeking out opportunities to learn new technology and cutting-edge solutions both inside and outside the classroom. 
+Hi, I'm a second-year computer science student at UC San Diego with experience and skills in front-end web development, AI, and Machine Learning. Having a passion for learning new things, I am always seeking out opportunities to learn new technology and cutting-edge solutions both inside and outside the classroom. 
 
 In my spare time, I like to explore new genres of music and play instruments too! Currently working on learning guitar by myself. 
 
