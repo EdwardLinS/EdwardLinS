@@ -27,12 +27,12 @@ In my spare time, I like to explore new genres of music and play instruments too
 ## Experiences 💼
 
 **[Triton Software Engineering](https://tse.ucsd.edu) | Software Developer**
-- I worked as a front-end developer with a cross-functional team for the nonprofit Fixnation's landing page, creating responsive masthead, roadmap, mobile stats page, and interactive quiz components.
+- I worked as a front-end developer with a cross-functional team for the nonprofit Fixnation's landing page, creating a responsive masthead, roadmap, mobile stats page, and interactive quiz components.
 - I used HTML, CSS, Typescript, and SvelteKit to develop the website.
 
 **[Comet College Applications Task Manager](https://applywithcomet.com) | Software Engineer Intern**
-- I provided strategic software consultation and analyzing UI/UX to help test and improve it for public use.
-- During my time as an intern, I improved Comet’s search engine performance with inverted indexing and NoSQL databases, developed a Python picture-to-JSON transcript reader that converts images into data structures to simplify user experience, and created a chat app using CometChat widget and Firebase to allow one-to-one counseling.
+- I provided strategic software consultation and analyzed UI/UX to help test and improve it for public use.
+- During my time as an intern, I researched and reported findings on improving Comet’s search engine performance with inverted indexing and NoSQL databases, developed a Python picture-to-JSON transcript reader that converted images into data structures to make reading transcript info faster and easier, and created a chat app using CometChat widget and Firebase to allow one-to-one counseling.
  
 ## Projects 💡
 
