@@ -39,7 +39,7 @@ In my spare time, I like to explore new genres of music and play instruments too
 **[ReViSE: Reconstructing Visual Stimuli from EEG Signals](https://github.com/Utterbackian/Neuromatch2023_Medical_Imaging)**
 
 - Created a generative deep learning model using PyTorch to reconstruct the images from 128-channel EEG data. 
-- Applied a LSTM model to extract visual features from 20,000 EEG data and inputted the processed data into a Deep Convolutional Generative Adversary Network to train and generate images.
+- Applied an LSTM model to extract visual features from 20,000 EEG data and inputted the processed data into a Deep Convolutional Generative Adversary Network to train and generate images.
 - Developed model for possible future applications such as allowing the paralyzed to communicate, forensic analysis by identifying suspects, and dream visualization.
 
 **[ToiFall: Wifi CSI Activity Recognition](https://github.com/EdwardLinS/ToiFall)**
