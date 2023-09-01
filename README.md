@@ -26,6 +26,13 @@ In my spare time, I like to explore new genres of music and play instruments too
 
 ## Experiences 💼
 
+**[World Wiser Sport Committee (WWSC)](https://github.com/EdwardLinS/WWSC) | Full Stack Web Developer**
+- I worked as a full stack web developer for WWSC, a non-profit that promotes Wiser Sport worldwide by training referees and hosting international tournaments.
+- I planned and designed the official WWSC website with Figma to create multiple prototypes.
+- The previous website had a long loading time, so I redesigned responsive front-end interfaces with React.js to reduce the loading time. Styled the website with Bootstrap CSS.
+- Used front-end client (React.js) to fetch content from existing WWSC WordPress backend by accessing WP REST API endpoints.
+- Currently, building a referee registration system using Google Firebase authentication, storage, and NoSQL Firestore database services to allow 400+ referees to edit/update profiles, upload/track their game records, and create a data visualization dashboard (Chart.js).
+
 **[Triton Software Engineering](https://tse.ucsd.edu) | Software Developer**
 - I worked as a front-end developer with a cross-functional team for the nonprofit Fixnation's landing page, creating a responsive masthead, roadmap, mobile stats page, and interactive quiz components.
 - I used HTML, CSS, Typescript, and SvelteKit to develop the website.
