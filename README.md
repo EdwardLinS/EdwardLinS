@@ -26,7 +26,7 @@ In my spare time, I like to explore new genres of music and play instruments too
 
 ## Experiences 💼
 
-**[World Wiser Sport Committee (WWSC)](https://github.com/EdwardLinS/WWSC) | Full Stack Web Developer**
+**[World Wiser Sport Committee (WWSC)](https://github.com/EdwardLinS/WWSC-main) | Full Stack Web Developer**
 - I worked as a full stack web developer for WWSC, a non-profit that promotes Wiser Sport worldwide by training referees and hosting international tournaments.
 - I planned and designed the official WWSC website with Figma to create multiple prototypes.
 - The previous website had a long loading time, so I redesigned responsive front-end interfaces with React.js to reduce the loading time. Styled the website with Bootstrap CSS.
